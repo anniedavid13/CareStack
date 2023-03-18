@@ -16,27 +16,27 @@ These instructions will get you a copy of the project up and running on your loc
 To run the application, you need to have Node.js and MongoDB installed on your machine. Here are the steps to install and run the application:
 
 1. Clone the repository to your local machine:
-
-### git clone https://github.com/anniedavid13/CareStack.git
-
+```
+git clone https://github.com/anniedavid13/CareStack.git
+```
 2. Install the backend dependencies:
-
-### cd server
-### npm install
-
+```
+cd server
+ npm install
+```
 3.Start the backend server:
-
-### npm start
-
+```
+npm start
+```
 4. Install the frontend dependencies:
-
-### cd client
-### npm install
-
+```
+cd client
+npm install
+```
 5.Start the frontend server:
-
-### npm start
-
+```
+npm start
+```
 6.Open your web browser and navigate to http://localhost:3000
 
 
